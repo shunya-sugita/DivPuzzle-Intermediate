@@ -15,10 +15,6 @@
   float: left;
 }
 
-.pbo{
-  float: left;
-}
-
 .pb{
   float: left;
 }
@@ -49,10 +45,8 @@
 }
 
 .brown-box{
-  width: 250px;
   height: 100px;
   background: #8c2727;
-  float: left;
 }
 
 .yellow-box{
